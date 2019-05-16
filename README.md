@@ -17,7 +17,7 @@ python Apriori.py
   * run without details (only showing count of frequent itemset without showing contents of those frequent itemsets):
   python Apriori.py --noDetail
   
-  * commends above can be combined together
+  * commands above can be combined together
   e.g. python Apriori.py --min_sup 0.7 --FilePath ./YourFolder/YourData.csv --noDetail
 
 
