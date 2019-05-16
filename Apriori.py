@@ -8,7 +8,7 @@ Implementation of Apriori From
 description:
     Implementaion of Apriori algorithm by making use of pyhton set, numpy array
     and pandas DataFrame. This implementation way is faster than existing 
-    implementations(open source))
+    implementations)
 '''
 
 import numpy as np
