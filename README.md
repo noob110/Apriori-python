@@ -1,5 +1,5 @@
-# Apriori-python 
-Implementation of Apriori Algortihm[1] in python
+# Apriori-Python 
+Implementation of Apriori Algortihm[1] in Python
 
 Data (can be any file type, but type csv always gets expected output):
 Each row of data will be considered as a transaction.  
