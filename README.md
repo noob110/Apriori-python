@@ -8,13 +8,13 @@ Each element in a row will be considered as an item.
 To run the program at default settings:
 python Apriori.py
 
-  run with different min support (default 0.9):
+  * run with different min support (default 0.9):
   python Apriori.py --min_sup 0.7
   
-  run with different file (default adult.data.csv[2]):
+  * run with different file (default adult.data.csv[2]):
   python Apriori.py --FilePath ./YourFolder/YourData.csv
   
-  run without details (only showing count of frequent itemset without showing contents of those frequent itemsets):
+  * run without details (only showing count of frequent itemset without showing contents of those frequent itemsets):
   python Apriori.py --noDetail
   
   * commends above can be combined together
